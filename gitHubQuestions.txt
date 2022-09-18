@@ -1,0 +1,22 @@
+GIT commands
+1) initializing - 
+2) changing user name - 
+3) checking user name - 
+4) checking the status - 
+5) move the file from working directory to staging area - 
+see when ever u do a change wat we have to do is jst use git add and do following steps and see whether there was any change
+6) for summarising all the output - 
+7) To get more info regarding commit - 
+8) To check the files tracked by git - 
+9) To know the number of files in git - 
+10) to create a new file - 
+11) To add localRepository - Remote Repository - 
+12) To check whether link was successfull or not - 
+13) pushing all the files to github - 
+14) how to know which branch are we in - 
+15) To create a new branch - 
+16) To shift too new branch - 
+q to get out of terminal
+17) Restrict output to a single line -
+18) To archive files as a zip - git archive master --format = 
+19) for saving uncommited changes - 

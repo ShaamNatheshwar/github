@@ -1,0 +1,22 @@
+GIT commands
+1) initializing - git init
+2) changing user name - git config --global user.name "shaam"
+3) checking user name - git config user.email
+4) checking the status - git status
+5) move the file from working directory to staging area - git add .
+see when ever u do a change wat we have to do is jst use git add and do following steps and see whether there was any change
+6) for summarising all the output - git log
+7) To get more info regarding commit - git show <7-8> of the hash
+8) To check the files tracked by git - git ls-files
+9) To know the number of files in git - ls-lrt
+10) to create a new file - touch <fileName>
+11) To add localRepository - Remote Repository - git remote add origin <Link of our Repository>
+12) To check whether link was successfull or not - git remote -v
+13) pushing all the files to github - git push origin master
+14) how to know which branch are we in - git brach
+15) To create a new branch - git branch <Name>
+16) To shift too new branch - git checkout <Name>
+q to get out of terminal
+17) Restrict output to a single line - git log --oneline
+18) To archive files as a zip - git archive master --format = zip - output=..<filename>.zip
+19) for saving uncommited changes - git stash, git stash apply
