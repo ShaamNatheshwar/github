@@ -20,3 +20,4 @@ q to get out of terminal
 17) Restrict output to a single line -
 18) To archive files as a zip - git archive master --format = 
 19) for saving uncommited changes - 
+--end of the document--
