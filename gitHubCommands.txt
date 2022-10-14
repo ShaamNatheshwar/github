@@ -20,3 +20,4 @@ q to get out of terminal
 17) Restrict output to a single line - git log --oneline
 18) To archive files as a zip - git archive master --format = zip - output=..<filename>.zip
 19) for saving uncommited changes - git stash, git stash apply
+20) To change origin link - git remote set-url origin "link"
